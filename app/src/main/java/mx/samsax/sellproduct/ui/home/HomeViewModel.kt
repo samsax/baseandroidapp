@@ -10,4 +10,11 @@ class HomeViewModel : ViewModel() {
         value = "This is home Fragment"
     }
     val text: LiveData<String> = _text
+
+    data class Product(
+        var name:String,
+        var max_size:Number,
+        var min_size:Number,
+        var photo:String
+    )
 }
