@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "85076822559",
+    "firebase_url": "https://sellproduct-846c0.firebaseio.com",
+    "project_id": "sellproduct-846c0",
+    "storage_bucket": "sellproduct-846c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85076822559:android:755ec8d0ccc919c2ec632a",
+        "android_client_info": {
+          "package_name": "mx.samsax.sellproduct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85076822559-e8e7d61kipdpf79inc2huqnj3jqhd361.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.samsax.sellproduct",
+            "certificate_hash": "f2832eff7f62ac3c4ba7f6dfbbfacf632b92095c"
+          }
+        },
+        {
+          "client_id": "85076822559-hojejm49djnfamvnmtc9hkustold4j47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKaQh4Lh9Hkh0p0LiAmhydy748cKALsZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85076822559-hojejm49djnfamvnmtc9hkustold4j47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

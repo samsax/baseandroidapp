@@ -8,17 +8,13 @@ import com.android.volley.RequestQueue
 import com.android.volley.toolbox.Volley
 
 class BackendVolley  {
-    lateinit var context: Context
+    var context: Context
 
     constructor(context: Context) {
         this.context = context
     }
 
 
-    fun BackendVolley(context: Context) {
-      instance = this
-      this.context = context
-  }
 
   val requestQueue: RequestQueue? = null
       get() {
